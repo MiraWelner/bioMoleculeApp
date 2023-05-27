@@ -1,5 +1,5 @@
-# Biological Molecular decoder
-This is the first 'real' program I wrote! It was for Mr. Fitch, who was my chemistry teacher at the time. If you enter the name of an organic molecule such as ethanol, methane, octanoic acid, or 
+# Biological Molecular decod
+This is the first 'real' program I wrote! It was for Mr. Fitch, who was my chemistry teacher at the time. If you enter the name of an organic molecule such as ethanol, methane, or octanoic acid, it will tell you the chemical forumla. It is a command line app and does not yet have a GUI.
 
 # How to run it
 It can be easily run using a java compiler. Navigate to the main folder which will be called `bioMoleculeApp` and type `java setupbiomolecule.ScannerClass`
