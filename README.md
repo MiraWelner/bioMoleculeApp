@@ -3,6 +3,7 @@ This is the first 'real' program I wrote! It was in 2016 for Mr. Fitch, who was 
 
 # How to run it
 It can be run using a java compiler. Navigate to the main folder which will be called `bioMoleculeApp` and type 
+
 ```java setupbiomolecule.ScannerClass```
 
 This will open up a command line prompt and it will tell you the name of the compounds you put in.
