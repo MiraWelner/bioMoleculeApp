@@ -41,7 +41,7 @@ public class FunctionalGroupIdentifier {
 			System.exit(0);
 		}
 		else {
-			stringToReturn = ScannerClass.errorMessage();
+			stringToReturn = run.errorMessage();
 		}
 		return stringToReturn;
 	}

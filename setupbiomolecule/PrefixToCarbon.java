@@ -37,7 +37,7 @@ public class PrefixToCarbon {
 		}
 		else {
 			carbons = 0;
-			System.out.println(ScannerClass.errorMessage());
+			System.out.println(run.errorMessage());
 			System.exit(0);
 		}
 		return carbons;
