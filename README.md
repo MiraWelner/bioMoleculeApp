@@ -8,5 +8,4 @@ It can be run using a java compiler. Navigate to the main folder which will be c
 
 This will open up a command line prompt and it will tell you the name of the compounds you put in.
 
-NOTE: this has a somewhat limited application as it was only good for chemicals that I knew about from highschool chemistry. So, carboxilic acids, alkynes, etc. If you think it's too limited don't blame me, blame Mr Fitch for not teaching his class how to decode more!
-
+NOTE: this has a somewhat limited application as it was only good for chemicals that I knew about from highschool chemistry. So, carboxilic acids, alkynes, etc. If you think it's too limited don't blame me, blame Mr. Fitch for not teaching his class how to decode more (don't do that Mr. Fitch is super cool).
